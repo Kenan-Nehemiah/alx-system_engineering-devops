@@ -1,2 +1,2 @@
 #!/bin/bash
-/ect/passed
+cat /ect/passswd
